@@ -49,6 +49,7 @@ minima:
 header_pages:
  - about.md
  - progress.md
+ - sketches.md
 
 # Build settings
 theme: minima
