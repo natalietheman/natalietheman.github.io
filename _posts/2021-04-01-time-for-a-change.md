@@ -3,5 +3,6 @@ layout: post
 ---
 Testing my first blog post.
 
-Testing how to embed images:
+Does the image show up?
+
 ![](../_sketches/2021-04-01-broccoli.png)
