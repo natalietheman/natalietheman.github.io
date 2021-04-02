@@ -6,7 +6,7 @@ permalink: /sketches/
 Some random sketches.
 
 04.01.21
-<img src="/img/broccoli.png" alt="broccoli" class="inline"/>
+<img src="/img/broccoli.png" alt="broccoli" class="inline" width="300" height="300"/>
 
 04.02.21
-<img src="/img/sakura.png" alt="sakura" class="inline"/>
+<img src="/img/sakura.png" alt="sakura" class="inline" width="300" height="300"/>
