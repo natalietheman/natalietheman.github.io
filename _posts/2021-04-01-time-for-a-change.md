@@ -23,4 +23,4 @@ Ever since I finished up my second Etsy collection, I've run out of new ideas & 
 
 I don't want to put a complete pause on drawing, so I'm hoping to get the creative juices flowing by doing some small sketches (limiting myself to 15 mins) every day.
 
-<img src="/img/broccoli.png" alt="broccoli" width="50%"/>
+<img src="/img/broccoli.png" alt="broccoli" width="400"/>

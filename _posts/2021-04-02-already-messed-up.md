@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time for a Change
+title: Already Messed Up
 categories: blog
 ---
 ## Random Daily Happenings
@@ -10,4 +10,4 @@ I swear I set an alarm for 6AM, but I must have either unconsciously turned it o
 ## Simple Sketch
 Okay, I also said I was going to only spend 15 minutes on a sketch, and I failed at that too. I ended up spending almost half an hour because my intial sketch (breakdown of the components inside a matcha milk drink) was extremely ugly. I switched gears and drew this sakura at the end of the first 15 minute mark. Tomorrow, I need to stop drawing immediately after the 15 minute cutoff, no matter how ugly it looks. This way, I'll be able to learn how to exert control overmyself and my distractions. 
 
-<img src="/img/sakura.png" alt="sakura" width="50%"/>
+<img src="/img/sakura.png" alt="sakura" width="400"/>
