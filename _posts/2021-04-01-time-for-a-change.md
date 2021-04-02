@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Time for a Change
+categories: blog
 ---
-## Newfounded Habits
+Hi, I'm going to try journaling my next 30 days while I complete my early-morning-challenge to see if my productivity will increase/be affected by this new lifestyle. I might continue posting after that, but I have a tendency to get ahead of myself and plan too far into the future, so I want to take it as it comes this time. 
+
 ### 6AM Productivity (Day one)
 I saw another blog post talk about Matt D'Avella's 30-day challenge list, and I've decided to (impulsively) attempt waking up at 6AM every morning. Today was the first day of the challenge, and it actually felt so good to wake up before the sun came up. It usually takes me an hour or so to start focusing on my work, so starting early was helpful today! I went on a spontaneous Safeway run to buy broccoli today (Hyunju inspired my to make roasted broccoli for lunch LOL). I'm hoping to do more work tomorrow before I head out during the afternoon.
 ### Daily Sketch
