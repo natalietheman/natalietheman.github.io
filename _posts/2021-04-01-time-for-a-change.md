@@ -17,6 +17,7 @@ I think I'll be using this area to list out some things I've done today, no matt
 - went to both my lectures
 - played 1+ hr of ping pong with dad
 - went to the second rush info night (left early because I was too hungry)
+
 ## Simple Sketch
 Ever since I finished up my second Etsy collection, I've run out of new ideas & this has made me lose my motivation to draw. Honestly, the timing of this art block is kind of handy since I don't have to worry about finishing up a collection by a certain time. Lately, I've been choosing to relax/spend time outside (the weather has been really nice- 84°F today!) over thinking of new ideas/working on unfinished drawings.
 
