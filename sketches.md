@@ -3,5 +3,7 @@ layout: page
 title: Sketches
 permalink: /sketches/
 ---
-I'll be putting all my sketches here to keep track of what I draw.
-Testing.
+Some random sketches.
+
+04.01.21
+<img src="/img/broccoli.png" alt="broccoli" class="inline"/>

@@ -1,9 +1,8 @@
 ---
 layout: post
+title: Time for a Change
 ---
 Testing my first blog post.
 
-Does the image show up?
-
-![](/img/broccoli.png)
-<img src="/img/broccoli.png" alt="broccoli" class="inline"/>
+## 6AM Productivity
+<img src="/img/broccoli.png" alt="broccoli" width="50%"/>
