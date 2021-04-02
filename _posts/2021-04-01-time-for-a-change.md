@@ -8,6 +8,7 @@ Hi, I'm going to try journaling my next 30 days while I complete my early-mornin
 ### Consistency
 One thing I struggle with most is continuing with a habit or lifestyle. I find it easy to start new things but when something starts plateauing, I always lose motivation before I can build it into a habit. Matt D'Avella says that he abides by a "two-day rule", and I'd like to give that a try, whether it be going to live lectures or exercising. 
 > Never skip the thing you're trying to accomplish more than two days in a row
+
 By abiding to this rule, I hope to still have motivation to continue wiht a routine after slipping up. Usually, I go into a never-ending cylce of "oh, I skipped yesterday so I might as well restart next week" when I mess up.
 ## 6AM Productivity (Day one)
 I saw another blog post talk about Matt D'Avella's 30-day challenge list, and I've decided to (impulsively) attempt waking up at 6AM every morning. Today was the first day of the challenge, and it actually felt so good to wake up before the sun came up. It usually takes me an hour or so to start focusing on my work, so starting early was helpful today! I went on a spontaneous Safeway run to buy broccoli today (Hyunju inspired my to make roasted broccoli for lunch LOL). I'm hoping to do more work tomorrow before I head out during the afternoon.
