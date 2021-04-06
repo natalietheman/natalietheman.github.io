@@ -29,7 +29,9 @@ Dad saw a slickDeals coupon code for a cheap Raspberry Pi case and wanted me to 
 - watched Kong vs. Godzilla!
 
 04.05 (Today)
-- 
+- worked out with Arissa + caught up
+- bagels for dinner yumm
+- deliberations for rushees (went in at 7:30PM, so didn't get to vote)
 
 ## 6AM Productivity
 I've been sleeping too late to wake up at 6. I think I need to sleep by 10:30 LATEST (to give myself a little buffer to wind down in bed). I should get rid of my habit of staying on my phone once I get into bed (unless it's a conversation..should be more lenient with that). Scrolling mindlessly on social media watching videos and posts that make it so hard to wake up the next morning isn't worth it. I woke up at 6 to snooze my alarm until 6:30ish (half-asleep). I ended up just turning my alarm clock off and woke up at 7:15AM. Weirdly, I was more productive this morning because I felt so bad for waking up late and having less time than usual. If I'd woken up on time, I would've finished catching up on missed lectures and I wouldn't be missing class again :'). I'm also kind of worried that if I go to pship events, I'll have to sleep REALLY late and this will mess up my sleep schedule again..but I'll worry about that later :)
