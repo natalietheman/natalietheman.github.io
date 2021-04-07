@@ -13,3 +13,9 @@ Some random sketches.
 
 04.03.21
 <img src="/img/Bagel.png" alt="bagel" class="inline" width="300" height="300"/>
+
+04.06.21
+<img src="/img/FrenchPress.png" alt="bagel" class="inline" width="300" height="300"/>
+
+04.07.21
+<img src="/img/Llama.png" alt="bagel" class="inline" width="300" height="300"/>
